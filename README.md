@@ -1,4 +1,4 @@
-📈 Stock-Price-Precection-Using-Machine-Learning
+📈 Stock-Price-Predection-Using-Machine-Learning
 
 📌 Project Overview :
 This project focuses on predicting stock prices using machine learning techniques and technical indicators.
